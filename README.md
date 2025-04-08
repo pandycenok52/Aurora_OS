@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/c0162062-796c-4f6e-8dd6-7a3f38a1a264)
-![image](https://github.com/user-attachments/assets/97886d9e-6770-4574-909e-4564b7335ab0)
-
+![image](https://github.com/user-attachments/assets/5d5f1876-a5fd-49d4-af6a-e8d11224be45)
+![image](https://github.com/user-attachments/assets/66aacd95-8072-4c5b-9ad9-06b9c6d44f6a)
 
 Это последний код с датчиками, который мы успешно развернули на мобильном устройстве
